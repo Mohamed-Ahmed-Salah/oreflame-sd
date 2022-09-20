@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "688858243426",
+    "project_id": "oreflame-ab46c",
+    "storage_bucket": "oreflame-ab46c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688858243426:android:2229901fe34a00dd354c3b",
+        "android_client_info": {
+          "package_name": "com.example.oreflame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688858243426-7381h7vnjcmq4ev9u9l6h782403qpv8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARmnJEIIG84ct3AS7LDcd7f6ajmUPcRWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688858243426-7381h7vnjcmq4ev9u9l6h782403qpv8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
